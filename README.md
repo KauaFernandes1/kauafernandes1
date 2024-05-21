@@ -17,34 +17,7 @@
  --> 
   
   
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Kauã,+and+i+am+a+front-end+dev++) 
-  
- | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauafernandes1&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauafernandes1&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1)  
- | ----------- | ----------- | 
-  ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauafernandes1&theme=radical) 
- 
- ![Trophies](https://github-profile-trophy.vercel.app/?username=kauafernandes1&row=1&column=6&theme=radical&margin-w=20&margin-h=20) 
-  
- <br> 
-  
- ### 
-  
- <a href="https://github.com/kauafernandes1"><img align="right" src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" align="left" width="300" alt="self"/></a> 
-  
- 🤓 *▸ Your daily dev inspiration:* 
-  
-   <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
-  
- 💬 *▸ Socials & Contacts:* 
-  
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-fernandes)
-   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauadevs1@gmail.com) 
 
-  
- 
-
-  <br>
- 
   
   
  ## Technologies and tools 
